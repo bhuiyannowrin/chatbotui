@@ -1,12 +1,19 @@
-# React + Vite
+🤖 ChatbotUI
+An interactive Chatbot User Interface built with React, featuring login authentication, protected routes, and dynamic chat interactions.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔗 Live Demo: 
 
-Currently, two official plugins are available:
+✨ Features
+🔐 Login authentication (email login simulation)
+📱 Responsive, modern Chatbot UI
+💬 Chat system with automatic bot replies
+📋 Copy, like, and dislike bot messages
+🚪 User logout functionality
+🛡️ Protected route: access Chatbot only after login
+⚡ Smooth transitions and instant feedback
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🚀 Tech Stack
+React (Hooks and Router)
+React Router DOM (for routing and protected access)
+TailwindCSS (for fast and beautiful styling)
+React Icons (for UI elements)
